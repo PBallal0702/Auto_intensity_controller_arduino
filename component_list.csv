@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"UBreadBoard",1," Arduino Uno R3"
+"Rphotosensor",1," Photoresistor"
+"R1",1,"1 kΩ Resistor"
+"D1",1,"Red LED"
